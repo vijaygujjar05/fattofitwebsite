@@ -5,6 +5,8 @@ toc: false
 
 For healthy diet, we will modify your daily lifestyle routines with rich nutrition balanced diet food according to your intake calories. We have served 5000+ clients till date.
 
+We are certified practioners and specialized in Muscle Gain, Thyroid, PCOD, Fatty Liver, BP/Sugar, Post Pregnancy Fat Loss and Migrane.
+
 No Medicine <br/>
 No Tablets/Powder <br/>
 No Supliment <br/>
