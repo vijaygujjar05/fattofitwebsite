@@ -18,6 +18,9 @@ markup:
 
 menu:
   main:
+    - name: About
+      pageRef: /about
+      weight: 2
     - name: Youtube
       weight: 5
       url: "https://www.youtube.com/@FATTOFITVIJAYGUJJAR"
